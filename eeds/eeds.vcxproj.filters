@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="eeds.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="eedsDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Guide.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_FUNC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_FORM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_CURR.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_LIQU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_LOGS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_POSI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Item.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Compound.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Overdue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Stuff.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Liquid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Attribute.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Formula.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NEWLISTCTRL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_New.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Pos_Attr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Formula_Guide.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Compound_Liquid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Preparae_Solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Dilute_Solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Place_Bottle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="eeds.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eedsDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Guide.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_FUNC.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_FORM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_CURR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_LIQU.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_LOGS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_POSI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Item.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Compound.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Overdue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Stuff.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Liquid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Attribute.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Formula.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWLISTCTRL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_New.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Pos_Attr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Formula_Guide.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Compound_Liquid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Preparae_Solution.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Dilute_Solution.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Place_Bottle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="eeds.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\eeds.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\eeds.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\toolbar1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\toolbar4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bmp00001.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
